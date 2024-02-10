@@ -1,1 +1,1 @@
-![Excel project 1 screenshot](https://github.com/SyedAmirNuman/ExcelDataAnalysisProject/assets/153370057/b7c90b32-972c-4e80-a7e2-80db36cbd20b)
+![Excel project 1 screenshot](https://github.com/SyedAmirNuman/ExcelDataAnalysisProject/assets/153370057/cd0d9d73-6346-4494-9c05-0a562f2420b9)
